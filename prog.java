@@ -9,8 +9,13 @@ public class prog{
         } else {
             System.out.println("frocio");
         }
+<<<<<<< HEAD
         System.out.println("forza inter");
         System.out.println("fede prova");
+=======
+        System.out.println("forza juve");
+
+>>>>>>> gian2
     }
 
 
