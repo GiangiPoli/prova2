@@ -11,6 +11,9 @@ public class prog{
         }
         System.out.println("forza inter");
 
+        for (i = 0; i < 5; i++) {
+            System.out.println(i);
+        }
     }
 
 
