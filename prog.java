@@ -9,7 +9,10 @@ public class prog{
         } else {
             System.out.println("frocio");
         }
+        System.out.println("forza inter");
+
     }
+
 
 }
 
