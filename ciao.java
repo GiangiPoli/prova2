@@ -5,6 +5,6 @@ public final class ciao {
         if (true) {
             System.out.println("no");
         }
-        
+        System.out.println("ciao2");
      }
     }
