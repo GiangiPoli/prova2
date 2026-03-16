@@ -11,6 +11,10 @@ public class prog{
         }
         System.out.println("forza inter");
         System.out.println("fede prova");
+
+        for (i = 0; i < 5; i++) {
+            System.out.println(i);
+        }
     }
 
 
