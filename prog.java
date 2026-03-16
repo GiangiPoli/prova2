@@ -9,20 +9,15 @@ public class prog{
         } else {
             System.out.println("frocio");
         }
-<<<<<<< HEAD
+
         System.out.println("forza inter");
         System.out.println("fede prova");
-<<<<<<< HEAD
-=======
-        System.out.println("forza juve");
 
->>>>>>> gian2
-=======
+        System.out.println("forza juve");
 
         for (i = 0; i < 5; i++) {
             System.out.println(i);
         }
->>>>>>> 0af23b8cd2b1f5ccb6104fe39b43b0469ba77775
     }
 
 
